@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to out second slide!"
 ---
-Your text
+I am stronget than yesterday 
 Use the left arrow to go back!
